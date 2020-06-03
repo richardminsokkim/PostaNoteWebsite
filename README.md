@@ -1,2 +1,0 @@
-# PostaNoteWebsite
-Created with CodeSandbox
